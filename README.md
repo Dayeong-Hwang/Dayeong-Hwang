@@ -28,7 +28,7 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 <br>
 
 ### ✨ Tech Stack ✨
-
+<hr>
 
 <h4>🟡Back-end</h4>
 <p>
@@ -58,6 +58,6 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 
 
 ### 📩 SNS 📩
-
+<hr>
 <!-- 오픈카톡 링크 연결하기-->
 <a href="#"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black&link=#"/></a> 
