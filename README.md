@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 Hi there! I'm <b>web backend developer.</b><br>
 I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 </p>
+<br>
 
 ### ✨ Tech Stack ✨
-<hr>
+
 
 <h4>🟡Back-end</h4>
 <p>
@@ -51,13 +52,12 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
 </p>
 
-
+<br>
 
 
 
 
 ### 📩 SNS 📩
-<hr>
 
 <!-- 오픈카톡 링크 연결하기-->
 <a href="#"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black&link=#"/></a> 
