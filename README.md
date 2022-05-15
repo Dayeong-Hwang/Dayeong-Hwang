@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header)
+<!--사용법 : https://github.com/kyechan99/capsule-render-->
 
 
 <a href="mailto:hwangdayeong.web@gmail.com">
@@ -73,4 +74,8 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayeong-Hwang&layout=compact)](https://github.com/Dayeong-Hwang/github-readme-stats)
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer)
 </div>
+
+
