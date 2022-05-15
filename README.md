@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 
 <p>
-Hi there! I'm <b>web backend developer.</b><br>
+Hi there! My name is <b>Hwang Da Yeong.</b><br>
+I'm <b>web backend developer.</b><br>
 I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 </p>
 <br>
