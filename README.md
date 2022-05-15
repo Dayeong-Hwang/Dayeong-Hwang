@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
-
-
 <div align="center">
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header)
+
 
 <a href="mailto:hwangdayeong.web@gmail.com">
 <img src="https://img.shields.io/badge/hwangdayeong.web@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
