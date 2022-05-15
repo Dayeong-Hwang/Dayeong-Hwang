@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
+<div align="center">
 
 <a href="mailto:hwangdayeong.web@gmail.com">
 <img src="https://img.shields.io/badge/hwangdayeong.web@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -32,7 +33,7 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 <hr>
 
 <h4>🟢Back-end</h4>
-<p>
+<p >
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -48,9 +49,9 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 </p>
 <h4>🔴Database</h4>
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
 </p>
 
 <br>
@@ -72,3 +73,5 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayeong-Hwang&layout=compact)](https://github.com/Dayeong-Hwang/github-readme-stats)
 <!--https://github.com/anuraghazra/github-readme-stats-->
+
+</div>
