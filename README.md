@@ -24,16 +24,25 @@ Here are some ideas to get you started:
 <p>
 Hi there! I'm <b>web backend developer.</b><br>
 I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
-
 </p>
 
-<h3>✨ Tech Stack ✨</h3>
+### ✨ Tech Stack ✨
+<hr>
 <p>
- 
+<h4>🔴Back-end</h4>
+
+<br><br>
+<h4>🔵Front-end</h4>
+
+<br><br>
+<h4>🟡Database</h4>
+
+<br><br>
 </p>
 
 
-<h3>📩 SNS 📩</h3>
+### 📩 SNS 📩
+<hr>
 <p>
 
 </p>
