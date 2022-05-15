@@ -1,5 +1,3 @@
-
-
 <!--
 **Dayeong-Hwang/Dayeong-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-	<p>
+
 <a href="mailto:hwangdayeong.web@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hwangdayeong.web@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+
 
 
 
