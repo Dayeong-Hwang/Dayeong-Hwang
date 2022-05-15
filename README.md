@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
+
+
+<h3>✨ Tech Stack ✨</h3>
+<p>
+ 
+</p>
+
+
+<h3>📩 SNS 📩</h3>
+<p>
+
+</p>
