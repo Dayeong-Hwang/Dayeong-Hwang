@@ -59,21 +59,21 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 
 <br>
 
-
 ### 📩 SNS 📩
 <!-- 오픈카톡 링크 연결하기-->
 <a href="#"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black&link=#"/></a> 
 
 
-<br><br>
-
+<br>
 ### 📌 Most Used Languages 📌
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayeong-Hwang&layout=compact)](https://github.com/Dayeong-Hwang/github-readme-stats)
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
-
+  
+<!-- 푸터영역
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer)
+-->
 </div>
 
 
