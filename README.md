@@ -60,8 +60,8 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 <br>
 
 ### 📩 SNS 📩
-<!-- 오픈카톡 링크 연결하기-->
-<a href="#"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black&link=#"/></a> 
+
+<a href="https://open.kakao.com/o/sTv4gKie"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black&link=#"/></a> 
 
 <br>
   
