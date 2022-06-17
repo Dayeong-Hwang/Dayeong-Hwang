@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div>
 
   
 <!-- 헤더 영역
