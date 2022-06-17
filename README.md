@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header)
+  
+<!-- 헤더 영역
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header) -->
 <!--사용법 : https://github.com/kyechan99/capsule-render-->
 
 
