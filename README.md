@@ -69,6 +69,10 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
 </p>
 
+  <br/>
+  <br/>
+  
+  
 ### 📩 SNS 📩
 
 <a href="https://open.kakao.com/o/sTv4gKie"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black&link=#"/></a> 
