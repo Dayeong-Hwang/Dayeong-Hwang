@@ -65,7 +65,9 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 
 <h4>IDE</h4>
 <p>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 </p>
 
 ### 📩 SNS 📩
