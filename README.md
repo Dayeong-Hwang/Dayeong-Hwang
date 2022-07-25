@@ -41,7 +41,6 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-0F2346?logo=Csharp&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 </p>
   
   <p>(Android Studio 사용 경험 적음)</p>
@@ -64,6 +63,12 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 </p>
     <p>(MyBatis 사용 경험 적음)</p>
 <br>
+
+
+<h4>IDE</h4>
+<p>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+</p>
 
 ### 📩 SNS 📩
 
