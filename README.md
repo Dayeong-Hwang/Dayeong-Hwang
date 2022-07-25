@@ -34,8 +34,7 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 <br>
 
 ### ✨ Tech Stack ✨
-
-
+  
 <h4>Back-end</h4>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
