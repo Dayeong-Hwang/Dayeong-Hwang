@@ -62,8 +62,6 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
   <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/>
 </p>
     <p>(MyBatis 사용 경험 적음)</p>
-<br>
-
 
 <h4>IDE</h4>
 <p>
