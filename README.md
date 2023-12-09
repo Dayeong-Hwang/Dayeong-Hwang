@@ -63,6 +63,7 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 <h4> * IDE * </h4>
 <p>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-81C147?style=flat-square&logo=PyCharm&logoColor=white"/> -->
