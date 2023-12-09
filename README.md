@@ -39,8 +39,8 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-0F2346?logo=Csharp&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/-C%23-0F2346?logo=Csharp&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>-->
 </p>
  
 
@@ -55,7 +55,7 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
   
 <h4> * Database * </h4>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
    <!-- <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=MyBatis&logoColor=white"/> -->
 </p>
@@ -63,9 +63,9 @@ I enjoy health🏋️, hiking🧗‍♀️ and swimming🏊.
 <h4> * IDE * </h4>
 <p>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-81C147?style=flat-square&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-81C147?style=flat-square&logo=PyCharm&logoColor=white"/> -->
 </p>
   <br/>
   <br/>
