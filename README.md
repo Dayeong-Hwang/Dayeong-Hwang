@@ -1,29 +1,16 @@
-<!--
-**Dayeong-Hwang/Dayeong-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
--->
-<div align="center">
-
-  
 <!-- 헤더 영역
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header) -->
-<!--사용법 : https://github.com/kyechan99/capsule-render-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header)
+
 
 
 <a href="mailto:hwangdayeong.web@gmail.com">
 <img src="https://img.shields.io/badge/hwangdayeong.web@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
+
+ -->
+ 
 
 
 <p>
